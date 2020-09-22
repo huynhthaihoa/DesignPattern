@@ -1,0 +1,4 @@
+D:\hoa\Cac project\C#\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+D:\hoa\Cac project\C#\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+D:\hoa\Cac project\C#\DesignPatterns\Iterator\obj\x86\Debug\Iterator.exe
+D:\hoa\Cac project\C#\DesignPatterns\Iterator\obj\x86\Debug\Iterator.pdb

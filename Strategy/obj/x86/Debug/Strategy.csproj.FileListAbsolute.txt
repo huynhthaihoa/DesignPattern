@@ -1,0 +1,7 @@
+D:\Cac project\C#\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+D:\Cac project\C#\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+D:\Cac project\C#\DesignPatterns\Strategy\obj\x86\Debug\Strategy.csprojResolveAssemblyReference.cache
+D:\Cac project\C#\DesignPatterns\Strategy\obj\x86\Debug\Strategy.exe
+D:\Cac project\C#\DesignPatterns\Strategy\obj\x86\Debug\Strategy.pdb
+D:\Cac project\C#\DesignPatterns\Strategy\bin\Debug\Strategy.exe.CodeAnalysisLog.xml
+D:\Cac project\C#\DesignPatterns\Strategy\bin\Debug\Strategy.exe.lastcodeanalysissucceeded

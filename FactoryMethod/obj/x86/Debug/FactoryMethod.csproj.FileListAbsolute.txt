@@ -1,0 +1,5 @@
+D:\hoa\Cac project\C#\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\hoa\Cac project\C#\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\hoa\Cac project\C#\DesignPatterns\FactoryMethod\obj\x86\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\hoa\Cac project\C#\DesignPatterns\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+D:\hoa\Cac project\C#\DesignPatterns\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb

@@ -1,0 +1,4 @@
+D:\hoa\Cac project\C#\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\hoa\Cac project\C#\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\hoa\Cac project\C#\DesignPatterns\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+D:\hoa\Cac project\C#\DesignPatterns\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb

@@ -1,0 +1,7 @@
+D:\hoa\Cac project\C#\DesignPatterns\Observer\bin\Debug\Observer.exe
+D:\hoa\Cac project\C#\DesignPatterns\Observer\bin\Debug\Observer.pdb
+D:\hoa\Cac project\C#\DesignPatterns\Observer\obj\x86\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\hoa\Cac project\C#\DesignPatterns\Observer\obj\x86\Debug\Observer.exe
+D:\hoa\Cac project\C#\DesignPatterns\Observer\obj\x86\Debug\Observer.pdb
+D:\Cac project\C#\DesignPatterns\Observer\obj\x86\Debug\Observer.exe
+D:\Cac project\C#\DesignPatterns\Observer\obj\x86\Debug\Observer.pdb
